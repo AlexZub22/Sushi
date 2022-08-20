@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1612094716_17-p-risunki-dlya-srisovki-yeda-legko-17.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
